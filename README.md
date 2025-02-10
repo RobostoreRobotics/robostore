@@ -4,7 +4,9 @@
 Welcome to the RoboStore GitHub repository. This repository contains resources for managing, troubleshooting, and learning about our robotics products.
 
 <details>
-  <summary>## Table of Contents</summary>
+  <summary><strong>🔽 Table of Contents (Click to Expand)</strong></summary>
+
+  ---
 
   - [About Us](docs/about.md)
   - [FAQs](docs/faq.md)
@@ -17,7 +19,9 @@ Welcome to the RoboStore GitHub repository. This repository contains resources f
   - [Terms of Service](docs/policies/terms_of_service.md)
   - [Shipping and Refund Policy](docs/policies/shipping_refund.md)
 
+  ---
 </details>
+
 
 
 
