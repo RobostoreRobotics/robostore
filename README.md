@@ -23,15 +23,39 @@ Welcome to the RoboStore GitHub repository. This repository contains resources f
 </details>
 
 
-<tr>
-        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
-            <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
-        </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
-    </tr>
+<h2 align="center">Open Source Projects</h2>
 
+<table align="center" border="1" width="100%">
+    <tr style="background-color:#f2f2f2; font-weight:bold; text-align:center;">
+        <th>Category</th>
+        <th>Project</th>
+    </tr>
+    <tr>
+        <td rowspan="3" align="center" style="font-weight:bold; color:#e68a00;">🛠️ Robot SDK</td>
+        <td>
+            <a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank">
+                unitree_legged_sdk
+            </a> <br>
+            An SDK package used to develop Aliengo, A1, Go1, and B1 robots in real environments.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank">
+                unitree_sdk2
+            </a> <br>
+            SDK for controlling Go2, B2, and H1 robots, supporting real-time applications.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/unitreerobotics/unitree_ros" target="_blank">
+                unitree_ros
+            </a> <br>
+            ROS simulation package with URDF files for Unitree series robots.
+        </td>
+    </tr>
+</table>
 
 
 
