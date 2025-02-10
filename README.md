@@ -1,4 +1,5 @@
 # RoboStore Official Repository
+![ROBOSTORE_logo_white_wshadow_PNG](https://github.com/user-attachments/assets/80fcbfc9-646b-471e-a9a8-c6b78fc73b25)
 
 Welcome to the RoboStore GitHub repository. This repository contains resources for managing, troubleshooting, and learning about our robotics products.
 
@@ -17,42 +18,10 @@ Welcome to the RoboStore GitHub repository. This repository contains resources f
 
 
 
-Repository Structure
-RoboStore/
-├── README.md                 # Repository overview and description
-├── LICENSE                   # License file (MIT)
-├── .gitignore                # Git ignore file for ignoring unnecessary files
-│
-├── docs/                     # Documentation directory
-│   ├── about.md              # About RoboStore
-│   ├── faq.md                # Frequently Asked Questions
-│   ├── user_guide.md         # User guide for RoboStore products
-│   ├── installation_guide.md # Installation instructions
-│   ├── troubleshooting.md    # Troubleshooting guide
-│   ├── repair_maintenance.md # Repair and maintenance info
-│   ├── news.md               # Latest news and updates
-│   └── policies/             # Policy documents
-│       ├── privacy_policy.md # Privacy policy details
-│       ├── terms_of_service.md # Terms of service
-│       └── shipping_refund.md  # Shipping and refund policies
-│
-├── src/                      # Source code directory
-│   └── software/             # Software directory
-│       └── robot_firmware/   # Firmware files and software
-│
-├── robots/                   # Robots directory
-│   ├── humanoid/             # Humanoid robots
-│   │   ├── g1/               # G1 Humanoid model
-│   │   └── g1edu/            # G1 Education model
-│   └── quadruped/            # Quadruped robots
-│       ├── go2/              # GO2 Quadruped model
-│       └── go2_edu/          # GO2 Education model
-│
-├── assets/                   # Assets directory (images, videos, etc.)
-│   ├── images/               # Image assets used in documentation
-│   └── videos/               # Tutorial and demo videos
-│
-└── CONTRIBUTING.md           # Contribution guidelines
+
+
+
+
 
 
 1. About Us
