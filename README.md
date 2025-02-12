@@ -1,16 +1,73 @@
-![ROBOSTORE_logo_white_wshadow_PNG](https://github.com/user-attachments/assets/80fcbfc9-646b-471e-a9a8-c6b78fc73b25)
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<img src="assets/images/ROBOSTORE_logo_white_wshadow_PNG.png" alt="RoboStore Icon" style="width: 600px; height: 100px; padding:20;" />
 
-# **RoboStore Official Repository**
 
-Welcome to the RoboStore GitHub repository. RoboStore provides innovative robotic solutions for consumer, educational, and industrial applications. Our products include legged robots, humanoid robots, manipulators, and essential components such as motors, controllers, and LIDAR sensors. We focus on in-house research and development, advancing technologies in perception and motion control. Through our GitHub and RoboStore.com, we offer open-source projects, resources, and support to foster growth in robotics and automation.
----
+</div>
+
+
+
 <div align="center">
+
+<!-- <img src="ROBOSTORE_gears_icon.png" alt="RoboStore Icon" style="width: 80px; height: 80px; vertical-align: left;" /> 
+<div style="display: flex; align-items: center; gap: 10px;"> -->
+
+
+<h2 style="font-weight: bold; text-align: left; padding: 20px">
+  <span class="typing-animation">RoboStore Official Repository</span>
+</h2>
+
+<style>
+.typing-animation {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid #333;
+    font-size: 28px;
+    animation: typing 5s steps(30, end) infinite, blink-caret 0.75s step-end infinite;
+}
+
+/* Typing animation with pause */
+@keyframes typing {
+    0% { width: 0; }
+    70% { width: 100%; }
+    85% { width: 100%; } /* Pause at full width */
+    100% { width: 0; }
+}
+
+/* Blinking caret animation */
+@keyframes blink-caret {
+    50% { border-color: transparent; }
+}
+</style>
+
+
+
+<div style="display: flex; align-items: flex-start;">
+    <!-- Left-Aligned Text -->
+    <div style="width: 50%; padding: 20px; text-align: left;">
+        <p>
+            RoboStore provides innovative robotic solutions for consumer, educational, and industrial applications.
+            Our products include legged robots, humanoid robots, manipulators, and essential components such as 
+            motors, controllers, and LIDAR sensors. We focus on in-house research and development, advancing 
+            technologies in perception and motion control. Through our GitHub and 
+            <a href="https://www.robostore.com" target="_blank">RoboStore.com</a>, we offer open-source projects, 
+            resources, and support to foster growth in robotics and automation.
+        </p>
+    </div>
+    <!-- Right-Aligned Image -->
+    <div style="width: 50%;">
+        <img src="assets/images/Go2-EDU.png" alt="Unitree Go2" style="width: 45%; height: auto;">
+    </div>
+
+</div>
+
+
 
 ### 🌐 Connect With Us
 
 <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/@robostoreteam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=61552606152435" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://your-doc-link" target="_blank"><img src="https://img.shields.io/badge/Documentation-FFA500?style=for-the-badge&logo=rss&logoColor=white" /></a>
 <a href="mailto:sales@robostore.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Years-4-success?style=for-the-badge&logo=github" />
@@ -18,12 +75,28 @@ Welcome to the RoboStore GitHub repository. RoboStore provides innovative roboti
 </div>
 
 ---
-
 <div align="center">
-  <details>
-<summary><strong>📚 Table of Contents (Click to Expand)</strong></summary>
 
-### 🔗 **Core Documentation**
+<details>
+    <summary style="
+        display: inline-block;
+        padding: 12px 20px;
+        background-color: #f2f2f2;
+        color: #333;
+        font-weight: bold;
+        font-size: 18px;
+        text-decoration: none;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;">
+        📚 Table of Contents (Click to Expand)
+    </summary>
+
+---
+
+### 🔗 **Documentation Links**
 | Link | Description |
 |------|-------------|
 | [About Us](docs/about.md) | Learn more about RoboStore and its mission. |
@@ -33,28 +106,33 @@ Welcome to the RoboStore GitHub repository. RoboStore provides innovative roboti
 | [Troubleshooting](docs/troubleshooting.md) | Common issues and how to resolve them. |
 | [Repair and Maintenance](docs/repair_maintenance.md) | Maintenance and repair procedures. |
 | [News and Updates](docs/news.md) | Latest news and product updates. |
-
-### 📑 **Policies**
-| Link | Description |
-|------|-------------|
 | [Privacy Policy](docs/policies/privacy_policy.md) | Information on how we handle your data. |
 | [Terms of Service](docs/policies/terms_of_service.md) | Terms and conditions for using RoboStore products. |
 | [Shipping and Refund Policy](docs/policies/shipping_refund.md) | Shipping procedures and refund policies. |
 
+---
 </details>
+</div>
+
+
 
 ---
 
-<h2 align="center">Unitree Robotics Open Source Projects</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<img src="assets/images/ROBOSTORE_gears_icon-White.png" alt="RoboStore Icon" style="width: 80px; height: 80px; padding:20;" />
+<h2 style="margin: 0; font-size: 28px; font-weight: bold;"> Open Source Projects</h2>
+
+</div>
+
 
 <table align="center" border="1" width="100%">
     <tr style="background-color:#f2f2f2; font-weight:bold; text-align:center;">
-        <th>Category</th>
-        <th>Project</th>
+        <th style="background-color:#e68a00;">Category</th>
+        <th style="background-color:#58A4B0;">Project</th>
     </tr>
     <!-- Robot SDK -->
     <tr>
-        <td rowspan="7" align="center" style="font-weight:bold; color:#e68a00;">🛠️ Robot SDK</td>
+        <td rowspan="7" align="center" style="font-weight:bold; color:#e68a00; ">🛠️ Robot SDK</td>
         <td>
             <a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank">
                 unitree_legged_sdk
@@ -275,20 +353,4 @@ Welcome to the RoboStore GitHub repository. RoboStore provides innovative roboti
 
 ---
 
-<h3 align="center">🤝 Contributing</h3>
 
-Learn how to contribute to RoboStore’s projects, including submitting pull requests, bug reports, and feature requests.
-
-</div>
-
-
-
-
-
-License
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
-Contact Us
-For general inquiries or feedback, reach out to sales@robostore.com
-
-Thank you for choosing RoboStore for your robotics needs!
