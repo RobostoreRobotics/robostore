@@ -11,54 +11,25 @@
 <div style="display: flex; align-items: center; gap: 10px;"> -->
 
 
-<h2 style="font-weight: bold; text-align: left; padding: 20px">
-  <span class="typing-animation">RoboStore Official Repository</span>
-</h2>
-
-<style>
-.typing-animation {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #333;
-    font-size: 28px;
-    animation: typing 5s steps(30, end) infinite, blink-caret 0.75s step-end infinite;
-}
-
-/* Typing animation with pause */
-@keyframes typing {
-    0% { width: 0; }
-    70% { width: 100%; }
-    85% { width: 100%; } /* Pause at full width */
-    100% { width: 0; }
-}
-
-/* Blinking caret animation */
-@keyframes blink-caret {
-    50% { border-color: transparent; }
-}
-</style>
+![github header](https://github.com/user-attachments/assets/60d3d29a-3dee-4baa-a1b8-564289c5d8aa)
 
 
 
-<div style="display: flex; align-items: flex-start;">
-    <!-- Left-Aligned Text -->
-    <div style="width: 50%; padding: 20px; text-align: left;">
-        <p>
-            RoboStore provides innovative robotic solutions for consumer, educational, and industrial applications.
-            Our products include legged robots, humanoid robots, manipulators, and essential components such as 
-            motors, controllers, and LIDAR sensors. We focus on in-house research and development, advancing 
-            technologies in perception and motion control. Through our GitHub and 
-            <a href="https://www.robostore.com" target="_blank">RoboStore.com</a>, we offer open-source projects, 
-            resources, and support to foster growth in robotics and automation.
-        </p>
-    </div>
-    <!-- Right-Aligned Image -->
-    <div style="width: 50%;">
-        <img src="assets/images/Go2-EDU.png" alt="Unitree Go2" style="width: 45%; height: auto;">
-    </div>
-
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      RoboStore provides innovative robotic solutions for consumer, educational, and industrial applications.  
+      Our products include legged robots, humanoid robots, manipulators, and essential components such as  
+      motors, controllers, and LIDAR sensors. We focus on in-house research and development, advancing  
+      technologies in perception and motion control. Through our GitHub and  
+      <a href="https://www.robostore.com" target="_blank">RoboStore.com</a>, we offer open-source projects,  
+      resources, and support to foster growth in robotics and automation.
+    </td>
+    <td style="vertical-align: top;">
+      <img src="assets/images/Go2-EDU.png" alt="Unitree Go2" width="600">
+    </td>
+  </tr>
+</table>
 
 
 
